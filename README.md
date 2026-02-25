@@ -20,6 +20,7 @@ Clip Studio Paint is the global industry standard for webtoon, manga, and 2D ill
 **StudioBridge** bypasses the need for an official software API. It maps physical hardware inputs natively to OS-level UI commands, providing a seamless, highly secure, and tactile drawing experience.
 
 ---
+## Inspiration 
 ---
 
 ## ✨ Core Features & Hardware Integration

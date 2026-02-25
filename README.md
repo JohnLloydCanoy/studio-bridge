@@ -30,3 +30,10 @@ Clip Studio Paint is the global industry standard for webtoon, manga, and 2D ill
 ---
 
 ## 🏗️ Technical Architecture & Philosophy
+
+* **Week 1 (Foundation):** Establish connection via the Logitech Node SDK; initialize the repository structure.
+* **Week 2 (The UI Bridge):** Integrate `nut.js` to locate the active software window and successfully pass test keystrokes to CSP.
+* **Week 3 (Hardware Mapping):** Map Dialpad rotation to canvas adjustments; bind CSP internal Auto Actions to the MX Keypad LCD screens.
+* **Week 4 (Polish & Haptics):** Finalize MX Master 4 vector haptics and Actions Ring JSON configurations; conduct final code refactoring.
+
+---

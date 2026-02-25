@@ -23,6 +23,9 @@ Clip Studio Paint is the global industry standard for webtoon, manga, and 2D ill
 ## Inspiration 
 If you have ever drawn a single webtoon episode or a full-color digital illustration, you know the physical toll it takes. Artists perform thousands of repetitive clicks per session—constantly swapping from a sketching pencil to an inking G-Pen, applying clipping masks, and adjusting canvas rotation. This constant menu-diving completely breaks an artist's "flow state" and leads to severe physical wrist fatigue.
 
+Clip Studio Paint (CSP) is the global industry standard for this kind of work, but there is a massive roadblock: its developer API is locked entirely to the Japanese region. Global artists have zero official API-level hardware integrations. I wanted to build a solution that forces this closed ecosystem open, bringing tactile, eyes-free control back to digital artists so they can focus entirely on the canvas.
+
+
 ---
 
 ## ✨ Core Features & Hardware Integration

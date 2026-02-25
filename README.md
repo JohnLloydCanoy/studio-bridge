@@ -22,3 +22,7 @@ Clip Studio Paint is the global industry standard for webtoon, manga, and 2D ill
   The keypad’s 9 LCD screens act as a dynamic management board. Trigger complex CSP *Auto Actions* with a single physical press—instantly generate comic panels, apply screen tones, or organize layer blending modes without opening a side menu.
 * 🔄 **Analog Canvas Control (MX Dialpad)**
   The frictionless aluminum dial is mapped to step-free canvas rotation, allowing artists to smoothly angle the artboard to match natural wrist movements. The vertical roller dynamically adjusts brush radius mid-stroke.
+* 🎯 **Contextual Tooling (Actions Ring & MX Master 4)**
+  Clicking the MX Master 4 gesture button opens the virtual Actions Ring exactly at the stylus or cursor location. The ring dynamically populates with specific sub-tools (e.g., swapping from a G-Pen to a watercolor blender).
+* ⚡ **Vector Haptic Feedback (MX Master 4)**
+  Utilizing the mouse's haptic engine, the plugin delivers a subtle physical pulse when vector lines seamlessly intersect or lock onto a perspective ruler, giving physical confirmation of drafting accuracy.

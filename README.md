@@ -37,3 +37,11 @@ Clip Studio Paint is the global industry standard for webtoon, manga, and 2D ill
 * **Week 4 (Polish & Haptics):** Finalize MX Master 4 vector haptics and Actions Ring JSON configurations; conduct final code refactoring.
 
 ---
+
+## 👨‍💻 About the Developer
+**John Lloyd D. Cañoy** *Information Technology Undergraduate | University of Science and Technology of Southern Philippines (USTP)*
+
+Passionate about bridging the gap between physical hardware and digital creative workflows. 
+
+---
+*Developed for the Logitech DevStudio Challenge.*

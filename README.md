@@ -11,3 +11,5 @@ StudioBridge is an intelligent, API-less "Desktop Agent" designed to connect Log
 
 ## 📖 The Problem & Solution
 Clip Studio Paint is the global industry standard for webtoon, manga, and 2D illustration. However, its official developer SDK is locked entirely to the Japanese region. Global artists are left with zero API-level hardware integrations, forcing them into a repetitive cycle of keyboard shortcuts and menu-diving that disrupts creative flow.
+
+**StudioBridge** bypasses the need for an official software API. It maps physical hardware inputs natively to OS-level UI commands, providing a seamless, highly secure, and tactile drawing experience.

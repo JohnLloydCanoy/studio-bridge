@@ -1,6 +1,6 @@
 <div align="center">
 
-# StudioBridge 🎨⚙️
+# StudioBridge ()🎨⚙️
 **Logitech MX Plugin for CSP: Bringing API-Less Tactile Control to Digital Artists**
 
 [![Logitech Actions SDK](https://img.shields.io/badge/Logitech_Actions_SDK-Node.js-blue.svg)](https://devstudio.logitech.com/)

@@ -17,3 +17,6 @@ Clip Studio Paint is the global industry standard for webtoon, manga, and 2D ill
 ---
 
 ## ✨ Core Features & Hardware Integration
+
+* 🎛️ **The Visual Auto Action Deck (MX Keypad)**
+  The keypad’s 9 LCD screens act as a dynamic management board. Trigger complex CSP *Auto Actions* with a single physical press—instantly generate comic panels, apply screen tones, or organize layer blending modes without opening a side menu.

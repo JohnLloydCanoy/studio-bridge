@@ -6,3 +6,5 @@
 [![Status](https://img.shields.io/badge/Status-Hackathon_Proposal-brightgreen.svg)]()
 
 StudioBridge is an intelligent, API-less "Desktop Agent" designed to connect Logitech’s premium MX hardware directly to Clip Studio Paint (CSP). By utilizing the Logitech Node.js SDK and native OS-level UI automation, this plugin transforms deeply nested digital menus into intuitive, physical muscle memory.
+
+---

@@ -22,6 +22,7 @@ Clip Studio Paint is the global industry standard for webtoon, manga, and 2D ill
 ---
 ## Inspiration 
 If you have ever drawn a single webtoon episode or a full-color digital illustration, you know the physical toll it takes. Artists perform thousands of repetitive clicks per session—constantly swapping from a sketching pencil to an inking G-Pen, applying clipping masks, and adjusting canvas rotation. This constant menu-diving completely breaks an artist's "flow state" and leads to severe physical wrist fatigue.
+
 ---
 
 ## ✨ Core Features & Hardware Integration

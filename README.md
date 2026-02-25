@@ -26,5 +26,7 @@ Clip Studio Paint is the global industry standard for webtoon, manga, and 2D ill
   Clicking the MX Master 4 gesture button opens the virtual Actions Ring exactly at the stylus or cursor location. The ring dynamically populates with specific sub-tools (e.g., swapping from a G-Pen to a watercolor blender).
 * ⚡ **Vector Haptic Feedback (MX Master 4)**
   Utilizing the mouse's haptic engine, the plugin delivers a subtle physical pulse when vector lines seamlessly intersect or lock onto a perspective ruler, giving physical confirmation of drafting accuracy.
-  
+
 ---
+
+## 🏗️ Technical Architecture & Philosophy
